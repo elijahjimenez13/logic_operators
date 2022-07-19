@@ -1,0 +1,19 @@
+1) Logic Operators:
+A logical operator treats operands as being true or false, and evaluates to true or
+false. Logical operators include and, or, not.
+
+2) Logic Table:
+Table of Contents. truth table, in logic, chart that shows the truth-value of one or 
+more compound propositions for every possible combination of truth-values of the propositions making 
+up the compound ones. It can be used to test the validity of arguments.
+
+3) Precedence Rules:
+The order in which operators are evaluated in an expression are known as
+precedence rules.
+
+4) Decision Expressions:
+
+Decision making structures require that the programmer specifies one or more 
+conditions to be evaluated or tested by the program, along with a statement or 
+statements to be executed if the condition is determined to be true, and optionally, 
+other statements to be executed if the condition is determined to be false.

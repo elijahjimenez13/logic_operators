@@ -1,0 +1,10 @@
+integer userChannel
+
+userChannel = Get next input
+
+if (userChannel >= 2) and (userChannel <= 499)
+   Put "Standard" to output
+elseif (userChannel >= 1002) and (userChannel <= 1499)
+   Put "High del" to output
+else
+   Put "Error" to output
